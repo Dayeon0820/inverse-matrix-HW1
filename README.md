@@ -5,6 +5,8 @@
 ## 실행 방법
 
 ```bash
+git clone https://github.com/Dayeon0820/inverse-matrix-HW1.git
+cd inverse-matrix-HW1
 python inverse_matrix.py
 ```
 
